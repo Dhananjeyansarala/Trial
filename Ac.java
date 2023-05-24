@@ -2,7 +2,7 @@ package OopsTest;
 
 public class Ac {
 	 private String brand;
-	 private  int price;
+	 private  int prices;
 	 private boolean isAutomatic;
 	 private Compressor compressor;
 	public String getBrand() {
